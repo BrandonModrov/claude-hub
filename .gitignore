@@ -1,0 +1,10 @@
+node_modules/
+.next/
+next-env.d.ts
+src/data/projects.json
+codecenter.config.json
+claude-hub.config.json
+.env.local
+.env
+docs/sessions/
+docs/plans/

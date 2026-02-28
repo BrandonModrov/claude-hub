@@ -1,0 +1,6 @@
+{
+  "codeDirectories": ["~/Code"],
+  "projectAliases": {
+    "old-name": "current-name"
+  }
+}
